@@ -1,8 +1,11 @@
-# Paul's dotfiles
+# Maz' dotfiles
 
-* I maintain this repo as *my* dotfiles, but I'm keenly aware people are using it for theirs.
+* This was forked from paul irish's dotfiles.
+* Changed according to my preferences and usages
+
+* I maintain this repo as *my* dotfile
 * You're quite welcome to make suggestions, however I may decline if it's not of personal value to me.
-* If you're starting off consider forking [mathias](https://github.com/mathiasbynens/dotfiles/) or [alrra](https://github.com/alrra/dotfiles/). [paulmillr](https://github.com/paulmillr/dotfiles) and [gf3](https://github.com/gf3/dotfiles) also have great setups
+* If you're starting off consider forking [paulirish](https://github.com/paulirish/dotfiles) or [mathias](https://github.com/mathiasbynens/dotfiles/) or [alrra](https://github.com/alrra/dotfiles/). [paulmillr](https://github.com/paulmillr/dotfiles) and [gf3](https://github.com/gf3/dotfiles) also have great setups
 
 ## Setup
 #### installing & using
@@ -17,7 +20,7 @@
 #### maintenance
 
 * commit/push changes you want.
-* you can also hypothetically cherry-pick commits from me and mathias and our fork ecosystem.
+* you can also hypothetically cherry-pick commits from me, paul and mathias and our fork ecosystem.
 
 #### shell
 
